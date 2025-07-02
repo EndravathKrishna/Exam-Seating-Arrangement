@@ -22,7 +22,7 @@ This project provides a platform for both **Students** and **Admins**:
 
 ## 🖥️ Screenshot
 
-![Homepage](https://github.com/EndravathKrishna/Exam-Seating-Arrangement/blob/main/adminpage.png)
+![Homepage](https://github.com/EndravathKrishna/Exam-Seating-Arrangement/blob/main/homepage.png)
 
 ## 👨‍💻 Designed By
 
@@ -47,7 +47,7 @@ This project provides a platform for both **Students** and **Admins**:
 
 The Admin interface allows for dynamic configuration of seating based on branch and room capacity. Key functionalities include:
 
-![Admin Seating Panel](https://github.com/EndravathKrishna/Exam-Seating-Arrangement/blob/main/admin.png)
+![Admin Seating Panel](https://github.com/EndravathKrishna/Exam-Seating-Arrangement/blob/main/adminpage.png)
 
 ### 🔧 Features Shown:
 - **Room Selection:** Dropdown to choose a block/room (e.g., C-301).
